@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "087701725776",
+      "password": "080206"
+    },
+    {
+      "whatsappNumber": "085921432812",
+      "password": "080206"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "087701725776",
+      "token": "080206"
+    },
+    {
+      "whatsappNumber": "085921432812",
+      "token": "080206"
+    }
+  ]
+}
